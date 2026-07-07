@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Local data/model artifacts (this script writes these if run from the repo root)
+*.csv
+*.joblib
+*.json
+
+# Unnecessary code
+Is_A_Goalkeepers_Lateral_or_Depth_Positioning_More_Effective_at_Preventing_Goals_in_Soccer_With_Calculator.py
+Which_Positional_Error_is_More_Costly_for_a_Goalkeeper-_lateral_or_depth.ipynb
+
+# Unnecessary files
+IMG-Average_GK_Lateral_Position_Heatmap.png
+IMG-Depth_Positioning_Adjustment_Heatmap.png
+IMG-Effect_Of_Depth_Positioning_On_Goal_Probability_Line_Chart.png
+IMG-Effect_Of_Positioning_Errors_On_Goal_Probability.png
+IMG-Optimal_GK_Depth_Position.png
+OSU Sports Analytics Research Poster Spring 2026 - Jake Holfinger.jpg
+2026 Sports Analytics Conference Program.pdf
